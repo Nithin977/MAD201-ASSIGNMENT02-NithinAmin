@@ -1,16 +1,25 @@
-# mad201_a2_expense_tracker
+# MAD201 Assignment 02 – Personal Expense Tracker
+**Student: Nithin Amin (A00194432)  
+**Course:** F2025 MAD201-01 Cross Platform Mobile App Development  
 
-A new Flutter project.
+## Overview
+This Flutter application allows users to:
+- Add new expenses (title, amount, description, date)
+- View all expenses in a list
+- Tap on an expense to view its details
+- View total expenses summary at the top
 
-## Getting Started
+## Technologies Used
+- Flutter SDK
+- Dart
+- Material Design Widgets
+- `intl` package for date and currency formatting
 
-This project is a starting point for a Flutter application.
+## GitHub Workflow
+✅ 5+ Commits  
+✅ 3+ Pull Requests  
+✅ Complete Documentation (headers + DartDoc)  
+✅ Public Repository  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Repository Link:**
+[https://github.com/Nithin977/MAD201-ASSIGNMENT02-NithinAmin](https://github.com/Nithin977/MAD201-ASSIGNMENT02-NithinAmin)
